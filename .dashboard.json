@@ -1,11 +1,22 @@
 {
   "slug": "aluguel-de-cacamba",
   "niche": "aluguel de caçamba",
-  "domain": null,
-  "stage": 7,
-  "stageLabel": "tema standalone validado",
+  "domain": "aluguel-de-cacamba.vercel.app",
+  "stage": 8,
+  "stageLabel": "github ok + supabase ok — vercel bloqueado (team Hobby)",
   "siteName": "Caçamba SP",
   "uf": "SP",
   "cidade": "São Paulo",
-  "createdAt": 1750294800000
+  "createdAt": 1750294800000,
+  "target": "8links",
+  "network_site_id": 178,
+  "vercel_project_id": null,
+  "vercel_deploy_url": null,
+  "github_repo": "https://github.com/8linksapp-maker/aluguel-de-cacamba",
+  "lastEvent": {
+    "kind": "bootstrap-partial",
+    "detail": "github push ok + network_sites id=178 — vercel bloqueado: VERCEL_TEAM_ID (team_WLusBOlxwlrJzlsbHtCZ4FZl) retorna 403; unico team acessivel (team_2p65EBbQcfDbpNPLwsUNM7L8 / 8links-projects) esta em plano Hobby",
+    "at": 1781860637385
+  },
+  "updatedAt": 1781860637385
 }
